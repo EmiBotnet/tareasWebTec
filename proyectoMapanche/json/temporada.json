@@ -1,0 +1,43 @@
+{
+    "temporada": {
+        "nombre": "Pan de temporada",
+        "productos": [
+            {
+                "nombre": "Rosca",
+                "id": "Rosca",
+                "url": "rosca.html",
+                "imagen": "../Multimedia/Menu/tempRosca.jpg"
+            },
+            {
+                "nombre": "Concha",
+                "id": "concha",
+                "url": "concha.html",
+                "imagen": "../Multimedia/Menu/panConcha.jpg"
+            },
+            {
+                "nombre": "Brownie",
+                "id": "brown",
+                "url": "brownie.html",
+                "imagen": "../Multimedia/Menu/panBrownie.jpg"
+            },
+            {
+                "nombre": "Pan Danés",
+                "id": "danes",
+                "url": "danes.html",
+                "imagen": "../Multimedia/Menu/panDanes.jpg"
+            },
+            {
+                "nombre": "Crossaint",
+                "id": "croiss",
+                "url": "crossaint.html",
+                "imagen": "../Multimedia/Menu/panCroiss.jpeg"
+            },
+            {
+                "nombre": "Donas",
+                "id": "donut",
+                "url": "polvoron.html",
+                "imagen": "../Multimedia/Menu/panDonut.jpeg"
+            }
+        ]
+    }
+}
